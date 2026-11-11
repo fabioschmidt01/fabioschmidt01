@@ -130,16 +130,6 @@ Click below to play a quick turn-based encounter:
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/fabioschmidt01/fabioschmidt01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
 <div align="center">
   <sub>Engineered with passion for native graphics, low-level systems, and static recompilation.</sub>
 </div>
